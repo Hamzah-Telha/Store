@@ -29,6 +29,8 @@ Route::get('upload','App\Http\Controllers\UploadController@indexx');
 Route::post('/upload', 'App\Http\Controllers\UploadController@upload');
 
 
+
+
 // Route::group(['namespace' => 'App\Http\Controllers'], function()
 // {   
 
