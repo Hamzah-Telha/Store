@@ -14,7 +14,8 @@ class UploadController extends Controller
     public function upload()
     {
         $path = request()->file('apk')->storeAs('apk', 'MutarrebMobilyPro.apk');
-        $appVersion = request()->input('appversion');
+        $appVersion = request()->input('appVersion');
+        // VersionClass($appVersion);
         return redirect()->back();
     }
 }
