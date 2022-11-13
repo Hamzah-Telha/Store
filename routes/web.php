@@ -1,10 +1,6 @@
 <?php
 
-use App\Http\Controllers;
-use Illuminate\Http\Response;
-use Illuminate\Support\Facades\File;
 use Illuminate\Support\Facades\Route;
-use Illuminate\Support\Facades\Storage;
 
 
 Route::get('/', function () {
