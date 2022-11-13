@@ -64,7 +64,7 @@
                 </div>
             </div>
             <video class="container text-center video_div rounded" width="720" height="540" controls>
-                <source src="{{url('files/mut_video.mp4')}}" type="video/mp4">
+                <source src="{{url('https://drive.google.com/file/d/1_KUtDal3jdZGgTnWezmQu2tMBLuGocTa/view?usp=share_link')}}" type="video/mp4">
                 <source src="m{{url('ovie.ogg')}}" type="video/ogg">
                 Your browser does not support the video tag.
             </video>
