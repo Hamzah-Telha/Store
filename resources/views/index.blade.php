@@ -80,7 +80,7 @@
               </h1>
               <h4><span>الاصدار : </span><span style="font-family: tahoma;">3.4.016</span></h4>
               <div>
-                <a href="{{url('downloadCenter')}}"
+                <a href="{{url('https://drive.google.com/file/d/18IXBcImgvOau26im39ZAN7fJNKkYY6OU/view?usp=share_link')}}"
                   class="shadow rounded bg-danger bg-gradient border-0 font_gess">
                   تحميل
                 </a>
